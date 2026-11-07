@@ -14,7 +14,7 @@ python -m venv venv
 .\venv\Scripts\python.exe manage.py runserver
 ```
 
-Open http://127.0.0.1:8000/
+Open https://malicious-website-detection-ai-green.onrender.com
 
 ## Features
 - URL-only malicious website detection
